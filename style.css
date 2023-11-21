@@ -1,0 +1,97 @@
+header{
+    background-color: rgb(255, 177, 163);
+    height: 300px;
+    color: rgb(192, 0, 0);
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+    font-family:'Palatino Linotype' ;
+
+ background-image:url(https://wallpapers.com/images/hd/purple-butterfly-outline-e4zrfvup3z1pd3bs.jpg);
+ background-size:cover;
+    background-position:center;
+}
+
+main{
+    background: linear-gradient(to left, rgb(39, 6, 66), rgb(75, 33, 116));
+    height: 100%;
+    width: 100%;
+    color: rgb(255, 174, 23);
+    font-size: 50px;
+    font-weight: bold;
+ display:flex;
+ justify-content: center;
+    
+    
+}
+footer{
+    background-color: rgb(33, 2, 73);
+    height: 100%;
+    width: 100%;
+    color: rgb(255, 240, 182);
+    font-size: 40px;
+    text-shadow: rgb(85, 65, 1) 5px 5px;
+    background-image: url(https://img.wallpapersafari.com/desktop/728/410/21/4/XYy4fL.jpg);
+    font-family:'Palatino Linotype' ;
+    font-weight: bold;
+    display: flex;
+}
+ .z {
+
+    text-shadow: rgb(78, 38, 0) 2px 5px ;
+ }
+ 
+
+.pz{
+    text-shadow: rgb(95, 62, 1) 5px 5px ;
+    font-family: 'Segoe Script';
+    font-weight: bold;
+    font-style: oblique;
+}
+.h{
+    font-size: 21px;
+    text-shadow: rgb(95, 62, 0) 2px 3px;
+    font-family:'Georgia' ;
+    
+}
+.container{
+    width: 80%;
+    height: 100%;
+    display: flex;
+}
+.left{
+    background: linear-gradient(to left, rgb(134, 79, 179), rgb(50, 8, 92));
+    float:left;
+    width: 50%;
+    height: 100%;
+    text-align: justify;
+}
+.right{
+    background-color: rgb(48, 1, 110);
+    float:right;
+    width: 50%;
+    height: 100%;
+    margin-top: 30px;
+    padding-left: 30px;
+}
+
+.gh{
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding: 20px;
+}
+
+
+.jk{
+    width: 70%;
+    float: right;
+}
+.jk img{ 
+    width: 200px;
+}
+.jk ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}

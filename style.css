@@ -13,7 +13,8 @@ header{
 }
 
 main{
-    background: linear-gradient(to left, rgb(39, 6, 66), rgb(75, 33, 116));
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqA6afiV4jReZ4cVxvt1fw6DdOT8_xbP9fMqYiPTnAjKBdgdP2RytoNV_vGZF2Lgp24kc&usqp=CAU);
+   
     height: 100%;
     width: 100%;
     color: rgb(255, 174, 23);
@@ -60,11 +61,13 @@ footer{
     display: flex;
 }
 .left{
-    background: linear-gradient(to left, rgb(134, 79, 179), rgb(50, 8, 92));
+    margin-top: 30px;
+    background: linear-gradient(to left, rgb(154, 31, 255), rgb(50, 8, 92));
     float:left;
     width: 50%;
     height: 100%;
     text-align: justify;
+    border: 5px purple;
 }
 .right{
     background-color: rgb(48, 1, 110);
